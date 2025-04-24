@@ -1,7 +1,7 @@
 // Criando o objeto aluno
 let aluno = {
-    nome: "Eduardo Rukhaber",
-    idade: 21,
+    nome: "lawren",
+    idade: 23,
     curso: "Edificação Predial",
     notas: [7.5, 8.0, 9.5, 9.0]
   };
